@@ -1,0 +1,17 @@
+{
+  "name": "stats-preview-card-component-main",
+  "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.43.4"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build":"parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
