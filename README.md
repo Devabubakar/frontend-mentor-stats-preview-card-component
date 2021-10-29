@@ -32,8 +32,8 @@ Users should be able to:
 
 ## Desktop View Screenshot
 
-![](./src/images/mobile-screenshot.png)
-s
+![](./src/images/desktop-screenshot.png)
+
 
 ### Links
 
@@ -70,7 +70,7 @@ s
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org) - This helped me refresh my understanding on the concept of mix blend mode and stacking context
+- [Mozilla Mdn](https://developer.mozilla.org) - This helped me refresh my understanding on the concept of mix blend mode and stacking context
 
 ## Author
 
