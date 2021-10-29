@@ -27,17 +27,17 @@ Users should be able to:
 ### Screenshot
 ## Mobile View Screenshot
 
-![](./images/mobile-screenshot.png)
+![](./src/images/mobile-screenshot.png)
 
 
 ## Desktop View Screenshot
 
-![](./images/mobile-screenshot.png)
+![](./src/images/mobile-screenshot.png)
 s
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github Repo](https://github.com/Devabubakar/Frontend-Mentor-Stats-preview-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
